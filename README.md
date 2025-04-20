@@ -24,7 +24,7 @@ This project implements an **Express.js authentication system** where a user can
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/active-session.git
+git clone https://github.com/iamhasantha/active-session.git
 cd active-session
 ```
 
